@@ -16,7 +16,7 @@ for value in diccionario.values():
     print(value)
 
 for key, value in diccionario.items():
-    print("key: "+key+ ", value: "+ value)
+    print("key: "+key+ ", value: "+ str(value) )
     print(f"Key: {key}, value: {value}")
 
 # ciclo FOR mediante uso de "range"
