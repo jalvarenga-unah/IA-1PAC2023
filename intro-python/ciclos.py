@@ -23,8 +23,8 @@ for key, value in diccionario.items():
 # for index in range(0, 10):
 #     print(index)
 
-# for value in lista_nombres:
-#     print(value)
+for value in lista_nombres:
+    print(value)
 
 # contador = 0
 #
